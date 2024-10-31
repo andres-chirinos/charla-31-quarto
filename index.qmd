@@ -24,12 +24,7 @@ format:
             buttons: true
         preview-links: auto
         logo: images/quarto.png
-        footer: Más información <https://quarto.org>
-links:
-    - icon: linkedin
-      href: https://www.linkedin.com/in/andres-chirinos
-    - icon: orcid
-      href: https://orcid.org/0000-0002-1825-0097
+        footer: Más información <https://quarto.org> | [Repositorio en GitHub](https://github.com/andres-chirinos/charla-31-quarto)
 ---
 
 # ¿Qué es Quarto?
